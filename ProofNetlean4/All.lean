@@ -9,4 +9,3 @@ import ProofNetlean4.Pough
 import ProofNetlean4.Putnam
 import ProofNetlean4.Rudin
 import ProofNetlean4.Shakarachi
-import ProofNetlean4.common
